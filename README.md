@@ -72,3 +72,4 @@ Contributions to EliteNexus are welcome and appreciated! We value community inpu
 # License
 
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/ludo53/EliteNexus/blob/main/LICENSE) file for details.
+.
